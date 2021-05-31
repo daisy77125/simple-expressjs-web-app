@@ -1,0 +1,19 @@
+{
+  "name": "simple-expressjs-web-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daisy77125/simple-expressjs-web-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daisy77125/simple-expressjs-web-app/issues"
+  },
+  "homepage": "https://github.com/daisy77125/simple-expressjs-web-app#readme"
+}
