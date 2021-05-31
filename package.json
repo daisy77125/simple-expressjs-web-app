@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/daisy77125/simple-expressjs-web-app/issues"
   },
-  "homepage": "https://github.com/daisy77125/simple-expressjs-web-app#readme"
+  "homepage": "https://github.com/daisy77125/simple-expressjs-web-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
