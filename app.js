@@ -1,6 +1,10 @@
 const express = require("express");
 const path = require("path");
+const dotenv = require("dotenv");
 const logger = require("./middleware/logger");
+
+// Load config
+dotenv.config({ path: "./config/config.env" });
 
 const app = express();
 
